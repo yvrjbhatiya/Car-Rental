@@ -15,7 +15,7 @@ This is a simple car rental website. It is a static website with no backend. It 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yuvrajsinghbhatiya/Car-Rental
+   git clone https://github.com/yvrjbhatiya/Car-Rental
 
    ```
 
@@ -29,5 +29,5 @@ This is a simple car rental website. It is a static website with no backend. It 
 ## Hosted Url-
 
 ```
-https://cars-rentals.vercel.app/
+https://thecarrental.vercel.app/
 ```
